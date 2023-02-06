@@ -16,7 +16,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: ^0.17.0
-  supabase_flutter: ^1.2.2
+  supabase_flutter: ^1.4.0
 
 dev_dependencies:
   bloc_test: ^9.1.0
